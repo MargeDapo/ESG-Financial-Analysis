@@ -45,6 +45,8 @@ To uncover data-driven insights into how ESG practices impact company financials
 
 •	Trends of ESG scores by year
 
+![]TDI ESG Dashboard.PNG)
+
 **Results:**
 Here are the Key Performance Indicators (KPIs) from the dataset:
 
