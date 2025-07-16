@@ -45,9 +45,10 @@ To uncover data-driven insights into how ESG practices impact company financials
 
 •	Trends of ESG scores by year
 
-![]TDI ESG Dashboard.PNG)
+**Results/Visualization:**
 
-**Results:**
+![](https://github.com/MargeDapo/ESG-Financial-Analysis/blob/main/TDI%20ESG%20Dashboard.PNG)
+
 Here are the Key Performance Indicators (KPIs) from the dataset:
 
 •	Total Revenue: $51.38 Trillion
